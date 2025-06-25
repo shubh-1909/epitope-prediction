@@ -69,10 +69,6 @@ This project focuses on the **in silico identification of B-cell and T-cell epit
 ## 👨‍🔬 Author
 
 **Shubkarandeep Singh Judge**  
-M.Sc. Biotechnology | Minor in Computer Science  
-Thapar Institute of Engineering & Technology  
-📧 [Your Email]  
-🌐 [LinkedIn/GitHub Profile]
 
 ---
 
